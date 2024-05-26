@@ -10,15 +10,15 @@
     - [Univariate Gaussian Density](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/A_star.py)
     - [Multivariate Gaussian Density](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/A_star.py)
 
-3.**Principal Component Analysis (PCA)**
+3. **Principal Component Analysis (PCA)**
     - [Principal Component 1](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/cryto_arthrmatic.py)
     - [Principal Component 2](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/cryto_arthrmatic.py)
 
-4.**Clustering Algorithm**
+4. **Clustering Algorithm**
     - [K- Means](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/predicate-logic.py)
     - [Gaussian Mixture Modeling (GMM)](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/predicate-logic.py)
 
-5.**Classification Algorithm**
+5. **Classification Algorithm**
     - [Back Propagation Neural Network (BPNN)](./Programs/sematic_net.py)
     - [Support Vector Machine (SVM)](./Programs/sematic_net.py)
 
