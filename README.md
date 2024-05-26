@@ -3,7 +3,7 @@
 ## List of ML Lab Exercises:
 
 1. **Regression Algorithm**
-    - [Linear Regression](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/BFS(breath).py)
+    - [Linear Regression](https://github.com/karthikeyan-2005/Machine-Learning-Lab/blob/main/ML%20Lab/Regression%20Algorithm/Linear%20Regression.ipynb)
     - [Logistic Regression](https://github.com/Esai-Keshav/principles-of-ai-lab/blob/main/Programs/DFS(depth).py)
 
 2. **Gaussian Densities**
